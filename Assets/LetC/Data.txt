@@ -1,0 +1,25 @@
+{
+  "message": "Success",
+  "promotions": [
+    {
+      "index" : 0,
+      "imageLink": "https://images.unsplash.com/photo-1498550744921-75f79806b8a7?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&dl=anders-jilden-uwbajDCODj4-unsplash.jpg",
+      "promotionLink": "https://unsplash.com/photos/uwbajDCODj4"
+    },
+    {
+      "index" : 0,
+      "imageLink": "https://images.unsplash.com/photo-1467703834117-04386e3dadd8?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&dl=anders-jilden-5sxQH0ugTaA-unsplash.jpg",
+      "promotionLink": "https://unsplash.com/photos/5sxQH0ugTaA"
+    },
+    {
+      "index" : 0,
+      "imageLink": "https://images.unsplash.com/photo-1466854076813-4aa9ac0fc347?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&dl=stefan-stefancik--g7axSVst6Y-unsplash.jpg",
+      "promotionLink": "https://unsplash.com/photos/-g7axSVst6Y"
+    },
+    {
+      "index" : 0,
+      "imageLink": "https://images.unsplash.com/photo-1563372027-854b1d247b4a?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&dl=vanveenjf-5g3G8Tq3JDw-unsplash.jpg",
+      "promotionLink": "https://unsplash.com/photos/5g3G8Tq3JDw"
+    }
+  ]
+}

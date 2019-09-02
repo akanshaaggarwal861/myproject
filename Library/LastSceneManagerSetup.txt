@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/LetC/Scenes/s1.unity
+  isLoaded: 1
+  isActive: 1
